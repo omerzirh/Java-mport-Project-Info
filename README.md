@@ -1,0 +1,2 @@
+# Java-mport-Project-Info
+Problem elimizde olan bir java dosyasının sınıfını, alt eleman sayısını, üye fonksiyonlarını, fonksiyonların aldıgı parametreleri kısacası java dosyasının bilgilerini açıp incelemeden öğrenememkti. Bu bağlamda java dosyası txt dosyası gibi satır satır okunup kosullar konularak sonuca ulaşılmaya çalışıldı. Yeni bir algoritma kuruldu. RegEx gibi, Buffered Reader gibi, String gibi sınıflar kullanılarak sonuca ulaşıldı.
